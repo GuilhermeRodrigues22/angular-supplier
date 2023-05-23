@@ -23,6 +23,22 @@
       "phone_number": 11907564389,
       "adress": "Rua Brasil...",
       "cpf": 48920597863
+    },
+    {
+      "id": 4,
+      "name": "Maria",
+      "email": "maria@gmail.com",
+      "phone_number": 1231312314121,
+      "adress": "Endereço 1",
+      "cpf": "CPF 1"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "email": null,
+      "phone_number": null,
+      "adress": null,
+      "cpf": "CPF 3"
     }
   ],
   "suppliers": [
